@@ -11,9 +11,9 @@
       "description": "Displays key metrics with custom styling",
       "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/cds-community-viz.png",
       "resource": {
-        "js": "robertcain-maker.github.io/looker-community-viz/overview-card/index.js",
-        "config": "robertcain-maker.github.io/looker-community-viz/overview-card/config.json",
-        "css": "robertcain-maker.github.io/looker-community-viz/overview-card/styles.css"
+        "js": "robertcain-maker.github.io/looker-testing-viz/overview-card/index.js",
+        "config": "robertcain-maker.github.io/looker-testing-viz/overview-card/config.json",
+        "css": "robertcain-maker.github.io/looker-testing-viz/overview-card/styles.css"
       }
     }
   ]
