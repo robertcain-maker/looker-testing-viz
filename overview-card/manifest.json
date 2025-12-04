@@ -1,0 +1,20 @@
+{
+  "name": "Overview Card",
+  "organization": "Evok Advertising",
+  "description": "Custom overview card with dynamic insights",
+  "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/cds-community-viz.png",
+  "devMode": true,
+  "components": [
+    {
+      "id": "overviewCard",
+      "name": "Overview Card",
+      "description": "Displays key metrics with custom styling",
+      "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/cds-community-viz.png",
+      "resource": {
+        "js": "YOUR-USERNAME.github.io/looker-community-viz/overview-card/index.js",
+        "config": "YOUR-USERNAME.github.io/looker-community-viz/overview-card/config.json",
+        "css": "YOUR-USERNAME.github.io/looker-community-viz/overview-card/styles.css"
+      }
+    }
+  ]
+}
